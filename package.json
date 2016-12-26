@@ -1,0 +1,26 @@
+{
+  "name": "resx2js",
+  "version": "0.0.1",
+  "description": "A simple helper to translate resx files to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achakravarty/resx2js.git"
+  },
+  "author": "Abhimanyu Chakravarty <viperzenator@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achakravarty/resx2js/issues"
+  },
+  "homepage": "https://github.com/achakravarty/resx2js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
