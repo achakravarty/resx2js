@@ -21,6 +21,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "sax": "^1.2.1"
   }
 }
